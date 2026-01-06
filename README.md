@@ -12,3 +12,7 @@ working with remote repos
 git branches
 
 
+git merge
+
+
+
