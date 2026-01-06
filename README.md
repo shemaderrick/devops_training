@@ -1,18 +1,20 @@
-# what we have learned
+# WHAT HE HAVE LEARNED
 
-ssh keys
+- ssh keys
 
-commits
+- commits
 
-init repo locally 
+- init repo locally 
 
-working with remote repos
-
-
-git branches
+- working with remote repos
 
 
-git merge
+- git branches
+
+
+- git merge
+
+- git reset command to undo commits
 
 
 
